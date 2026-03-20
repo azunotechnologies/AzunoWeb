@@ -1,0 +1,16 @@
+<svg width="180" height="50" viewBox="0 0 180 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <rect x="0" y="5" width="40" height="40" rx="8" fill="url(#logoGradient)"/>
+  <path d="M12 35L20 15L28 35H24L20 24L16 35H12Z" fill="white"/>
+  <path d="M16 35H24V38H16V35Z" fill="white"/>
+
+  <!-- Text -->
+  <text x="50" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="currentColor">AZUNO</text>
+
+  <defs>
+    <linearGradient id="logoGradient" x1="0" y1="5" x2="40" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#9333EA"/>
+    </linearGradient>
+  </defs>
+</svg>
